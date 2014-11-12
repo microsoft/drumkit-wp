@@ -16,6 +16,8 @@ Compatibility with Windows Phone 8 has been verified using Microsoft Visual
 Studio Express 2012 for Windows Phone and Nokia Lumia 820 and Nokia Lumia 920 
 devices.
 
+![Combined screenshots](doc/drumkit.png?raw=true)
+
 The application has been ported from Java Drumkit example, available at  
 http://www.developer.nokia.com/info/sw.nokia.com/id/1fe81968-abbf-48d1-a137-a203094611b2/MIDP_Java_Drumkit_Example_v1_0_en.zip.html 
 At the same time, also a Qt version has been developed for Symbian and Nokia 
@@ -23,10 +25,10 @@ N9 devices, available at:
 http://www.developer.nokia.com/info/sw.nokia.com/id/57f87a44-0408-41c5-9d60-e2491d6793fb/Drumkit.html
 
 This example application is hosted in GitHub:
-https://github.com/nokia-developer/drumkit-wp
+https://github.com/Microsoft/drumkit-wp
 
 For more information on implementation and porting, visit the wiki pages:
-https://github.com/nokia-developer/drumkit-wp/wiki
+https://github.com/Microsoft/drumkit-wp/wiki
 
 This project is compatible with Windows Phone 7 and Windows Phone 8 devices.
 
@@ -93,7 +95,7 @@ http://msdn.microsoft.com/en-us/library/gg588378%28v=vs.92%29.aspx
 
 See the license text file delivered with this project. The license file is also
 available online at
-https://github.com/nokia-developer/drumkit-wp/blob/master/Licence.txt
+https://github.com/nokia-developer/Microsoft/blob/master/Licence.txt
 
 
 4. Version history
