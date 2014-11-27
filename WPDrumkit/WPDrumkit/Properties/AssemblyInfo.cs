@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("Drumkit XNA")]
 [assembly: AssemblyDescription("Drumkit XNA is a virtual drumkit, that lets you play percussion sounds by tapping sound pads.")]
 [assembly: AssemblyCompany("Nokia")]
-[assembly: AssemblyCopyright("Copyright © 2011-2012 Nokia Corporation.")]
+[assembly: AssemblyCopyright("Copyright © 2011-2014 Microsoft Mobile.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
