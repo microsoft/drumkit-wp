@@ -95,7 +95,7 @@ http://msdn.microsoft.com/en-us/library/gg588378%28v=vs.92%29.aspx
 
 See the license text file delivered with this project. The license file is also
 available online at
-https://github.com/Microsoft/Microsoft/blob/master/Licence.txt
+https://github.com/Microsoft/drumkit-wp/blob/master/Licence.txt
 
 
 4. Version history
